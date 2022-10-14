@@ -1,0 +1,6 @@
+C:\devs2blu\PROJETO Contatos\Contatos C#\AgendaContatosSln\src\Devs2Blu.ProjetosAula.Integracao.AgendaContatos\obj\Debug\Devs2Blu.ProjetosAula.Integracao.AgendaContatos.csproj.AssemblyReference.cache
+C:\devs2blu\PROJETO Contatos\Contatos C#\AgendaContatosSln\src\Devs2Blu.ProjetosAula.Integracao.AgendaContatos\obj\Debug\Devs2Blu.ProjetosAula.Integracao.AgendaContatos.csproj.SuggestedBindingRedirects.cache
+C:\devs2blu\PROJETO Contatos\Contatos C#\AgendaContatosSln\src\Devs2Blu.ProjetosAula.Integracao.AgendaContatos\obj\Debug\Devs2Blu.ProjetosAula.Integracao.AgendaContatos.exe.config
+C:\devs2blu\PROJETO Contatos\Contatos C#\AgendaContatosSln\src\Devs2Blu.ProjetosAula.Integracao.AgendaContatos\obj\Debug\Devs2Blu.ProjetosAula.Integracao.AgendaContatos.Properties.Resources.resources
+C:\devs2blu\PROJETO Contatos\Contatos C#\AgendaContatosSln\src\Devs2Blu.ProjetosAula.Integracao.AgendaContatos\obj\Debug\Devs2Blu.ProjetosAula.Integracao.AgendaContatos.csproj.GenerateResource.cache
+C:\devs2blu\PROJETO Contatos\Contatos C#\AgendaContatosSln\src\Devs2Blu.ProjetosAula.Integracao.AgendaContatos\obj\Debug\Devs2Blu.ProjetosAula.Integracao.AgendaContatos.csproj.CoreCompileInputs.cache
